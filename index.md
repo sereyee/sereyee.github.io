@@ -25,6 +25,9 @@ page_sections:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
+- template: simple-footer
+  block: footer-1
+  content: Hello world! ❤︎
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -66,9 +69,6 @@ page_sections:
     Page-Builder template.</p></li><li><p>Add and customize the available Blocks and
     preview them as you go along.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
     article</a> and create your own Blocks.</p></li></ol>
-- template: simple-footer
-  block: footer-1
-  content: Hello world! ❤︎
 
 ---
 foo bar
