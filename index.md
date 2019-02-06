@@ -30,9 +30,9 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: academic <strong>ESSAYS</strong>
-  content: <a href="https://docs.google.com/document/" title="Goals">https://docs.google.com/document/</a><a
-    href="" title="">d</a><a href="https://docs.google.com/document/d/19A41pFm9nit0Y2cwbuAxcwXFBKq6qB9mUyPgoGjaryU/edit?usp=sharing"
-    title="Goals">/19A41pFm9nit0Y2cwbuAxcwXFBKq6qB9mUyPgoGjaryU/edit?usp=sharing</a>
+  content: <a href="https://docs.google.com/document/d/19A41pFm9nit0Y2cwbuAxcwXFBKq6qB9mUyPgoGjaryU/edit?usp=sharing"
+    title="Goals Hierarchy and Self Regulation in IVF Patients">Goals Hierarchy and
+    Self Regulation in IVF Patients</a>
   media:
     image: ''
     alt_text: ''
