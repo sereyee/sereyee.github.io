@@ -10,6 +10,8 @@ page_sections:
     link_text: home
   - link: "#"
     link_text: resume
+  - link: "#"
+    link_text: my thoughts
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
