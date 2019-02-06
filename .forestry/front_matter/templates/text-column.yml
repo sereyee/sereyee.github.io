@@ -4,8 +4,8 @@ hide_body: false
 is_partial: true
 fields:
 - type: textarea
-  name: headline
-  label: Content
+  name: content
+  label: Headline
 - type: textarea
   name: content
   label: Content
