@@ -5,7 +5,7 @@ is_partial: true
 fields:
 - type: textarea
   name: headline
-  label: Headline
+  label: Content
 - type: textarea
   name: content
   label: Content
