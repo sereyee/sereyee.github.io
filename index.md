@@ -49,8 +49,10 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: 'game: test your MUSIC KNOWLEDGE '
-  content: ''
+  headline: music knowledge<strong> GAME </strong>
+  content: My team used CSS, javascript, and html to create this final project.<strong><br></strong><a
+    href="http://yikes183.herokuapp.com/" title="click here to play!"><strong>click
+    here to play!</strong></a>
 
 ---
 foo bar
