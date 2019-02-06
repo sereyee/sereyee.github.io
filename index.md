@@ -14,7 +14,7 @@ page_sections:
     link_text: my thoughts
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
+  headline: SERENA YEE <br><strong>living to learn!</strong>
   content: The tool that allows you to build beautiful sites<br>all inside Forestry's
     content manager.
   cta:
