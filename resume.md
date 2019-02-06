@@ -10,8 +10,8 @@ page_sections:
     link_text: home
   - link: "/resume"
     link_text: resume
-  - link: "/mythoughts"
-    link_text: my thoughts
+  - link: "/thoughts"
+    link_text: thoughts
 - template: 1-column-text
   block: one-column-1
   content: <a href="https://docs.google.com/document/d/10GTi81VTY1f10ymKX1VKchpPKtxRaM9GVkq5MBgqPtM/edit?usp=sharing"
