@@ -8,6 +8,8 @@ page_sections:
   navigation:
   - link: "#"
     link_text: home
+  - link: "#"
+    link_text: resume
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
