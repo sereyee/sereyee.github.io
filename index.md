@@ -39,6 +39,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: infographics
+  content: dafdfafadfadfsf
 - template: 2-column-media-element
   block: media-2
   image_1:
