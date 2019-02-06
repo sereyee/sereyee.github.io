@@ -37,6 +37,14 @@ page_sections:
     alt_text: ''
 - template: content-feature
   block: feature-1
+  media_alignment: Left
+  content: <a href="https://www.canva.com/design/DADJWySrbtc/6oiodx-6Wbuxe51zXtmXAQ/view?utm_content=DADJWySrbtc&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=sharebutton"
+    title="check it out!"><strong>check it out!</strong></a>
+  headline: Spotify <strong>HEURISTIC ANALYSIS</strong>
+  media:
+    image: "/uploads/spotify.jpg"
+- template: content-feature
+  block: feature-1
   media_alignment: Right
   headline: music knowledge<strong> GAME </strong>
   content: My team used CSS, javascript, and html to create this final project.<br>To
@@ -45,14 +53,6 @@ page_sections:
   media:
     image: "/uploads/IMG_9774 (1).jpg"
     alt_text: wireframing
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  content: <a href="https://www.canva.com/design/DADJWySrbtc/6oiodx-6Wbuxe51zXtmXAQ/view?utm_content=DADJWySrbtc&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=sharebutton"
-    title="check it out!"><strong>check it out!</strong></a>
-  headline: Spotify <strong>HEURISTIC ANALYSIS</strong>
-  media:
-    image: "/uploads/spotify.jpg"
 - template: 1-column-text
   block: one-column-1
   headline: ''
