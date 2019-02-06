@@ -31,8 +31,8 @@ page_sections:
   media_alignment: Right
   headline: academic <strong>ESSAYS</strong>
   content: <a href="https://docs.google.com/document/d/19A41pFm9nit0Y2cwbuAxcwXFBKq6qB9mUyPgoGjaryU/edit?usp=sharing"
-    title="Goals Hierarchy and Self Regulation in IVF Patients">Goals Hierarchy and
-    Self Regulation in IVF Patients</a>
+    title="Goals Hierarchy and Self Regulation in IVF Patients"><b>Goals Hierarchy and
+    Self Regulation in IVF Patients</b></a>
   media:
     image: ''
     alt_text: ''
