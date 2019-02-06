@@ -33,7 +33,6 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- my-thoughts.md
 - index.md
 - resume.md
 - thoughts.md
