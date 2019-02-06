@@ -42,8 +42,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: academic <strong>ESSAYS</strong>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
+  content: ''
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: scrutinize me!
