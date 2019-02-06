@@ -10,7 +10,7 @@ page_sections:
     link_text: home
   - link: "/resume"
     link_text: resume
-  - link: "#"
+  - link: "/mythoughts"
     link_text: my thoughts
   logo: ''
 - template: hero-banner-w-image
