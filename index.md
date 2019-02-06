@@ -56,6 +56,13 @@ page_sections:
   media:
     image: "/uploads/IMG_9774 (1).jpg"
     alt_text: wireframing
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  content: <a href="" title="">check it out!</a>
+  headline: Spotify <strong>HEURISTIC ANALYSIS</strong>
+  media:
+    image: "/uploads/spotify.jpg"
 
 ---
 foo bar
