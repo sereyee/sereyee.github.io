@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: my thoughts
+title: mythoughts
 date: ''
 page_sections:
 - template: navigation-header
