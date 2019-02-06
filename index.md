@@ -59,7 +59,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  content: <a href="" title="">check it out!</a>
+  content: <a href="https://www.canva.com/design/DADJWySrbtc/6oiodx-6Wbuxe51zXtmXAQ/view?utm_content=DADJWySrbtc&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=sharebutton"
+    title="check it out!">check it out!</a>
   headline: Spotify <strong>HEURISTIC ANALYSIS</strong>
   media:
     image: "/uploads/spotify.jpg"
