@@ -41,7 +41,7 @@ page_sections:
   media_alignment: Right
   headline: info<strong>graphics</strong>
   media:
-    image: "/uploads/InfoOverloadYEE.png"
+    image: ''
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
