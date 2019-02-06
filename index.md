@@ -25,7 +25,7 @@ page_sections:
   image:
     image: "/uploads/lines 1.jpg"
     alt_text: ''
-  background_image: "/uploads/lines 3.jpg"
+  background_image: "/uploads/2018/06/21/forestry-symbol.svg"
 - template: content-feature
   block: feature-1
   media_alignment: Right
