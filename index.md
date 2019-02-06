@@ -53,6 +53,9 @@ page_sections:
   content: My team used CSS, javascript, and html to create this final project.<strong><br></strong><a
     href="http://yikes183.herokuapp.com/" title="click here to play!"><strong>click
     here to play!</strong></a>
+  media:
+    image: "/uploads/IMG_9774 (1).jpg"
+    alt_text: wireframing
 
 ---
 foo bar
