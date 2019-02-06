@@ -9,7 +9,7 @@ fields:
 - type: textarea
   name: content
   label: Content
-  config: 
+  config:
     wysiwyg: true
     schema:
       format: html
