@@ -16,8 +16,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: SERENA YEE <br><strong>living to learn!</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  content: I am studying UX Design and Management at the University of Michigan!
   cta:
     enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
