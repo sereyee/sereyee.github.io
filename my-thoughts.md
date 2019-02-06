@@ -10,7 +10,7 @@ page_sections:
     link_text: home
   - link: "/resume"
     link_text: resume
-  - link: "/my-thoughts"
+  - link: "/mythoughts"
     link_text: my thoughts
 published: false
 
