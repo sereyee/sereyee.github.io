@@ -38,8 +38,9 @@ page_sections:
     alt_text: ''
 - template: 1-column-text
   block: one-column-1
-  headline: infographics
+  headline: ''
   content: ''
+  styled: info<strong>graphics</strong>
 - template: 2-column-media-element
   block: media-2
   image_1:
