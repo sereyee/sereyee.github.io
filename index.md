@@ -50,9 +50,9 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: music knowledge<strong> GAME </strong>
-  content: My team used CSS, javascript, and html to create this final project.<strong><br></strong><a
-    href="http://yikes183.herokuapp.com/" title="click here to play!"><strong>click
-    here to play!</strong></a>
+  content: My team used CSS, javascript, and html to create this final project.<br>To
+    the right is a snippet of the wire-framing process.<strong><br></strong><a href="http://yikes183.herokuapp.com/"
+    title="click here to play!"><strong>click here to play!</strong></a>
   media:
     image: "/uploads/IMG_9774 (1).jpg"
     alt_text: wireframing
