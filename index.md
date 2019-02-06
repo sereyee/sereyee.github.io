@@ -36,6 +36,12 @@ page_sections:
   media:
     image: "/uploads/lines 3.jpg"
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: info<strong>graphics</strong>
+  media:
+    image: "/uploads/InfoOverloadYEE.png"
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
