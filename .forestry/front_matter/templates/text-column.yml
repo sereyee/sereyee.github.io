@@ -9,6 +9,10 @@ fields:
 - type: textarea
   name: content
   label: Content
+  config:
+  wysiwyg: true
+  schema:
+    format: html
 - type: textarea
   name: styled
   label: Styled
