@@ -24,7 +24,7 @@ page_sections:
   image:
     image: "/uploads/2018/06/21/hero-2-bg.png"
     alt_text: ''
-  background_image: "/uploads/2018/06/21/hero-2-bg.png"
+  background_image: "/uploads/2019/02/06/lines 1.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Right
