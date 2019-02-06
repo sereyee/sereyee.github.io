@@ -25,7 +25,7 @@ page_sections:
   image:
     image: "/uploads/lines 1.jpg"
     alt_text: ''
-  background_image: "/uploads/lines 1.jpg"
+  background_image: "/uploads/lines 3.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Right
