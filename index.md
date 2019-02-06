@@ -40,7 +40,7 @@ page_sections:
   block: one-column-1
   headline: ''
   content: ''
-  styled: info<strong>graphics</strong>
+  styled: info<strong>GRAPHICS</strong>
 - template: 2-column-media-element
   block: media-2
   image_1:
