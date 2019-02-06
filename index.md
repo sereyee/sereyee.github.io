@@ -35,17 +35,6 @@ page_sections:
   media:
     image: "/uploads/lines 3.jpg"
     alt_text: ''
-- template: 1-column-text
-  block: one-column-1
-  headline: ''
-  content: ''
-  styled: info<strong>GRAPHICS</strong>
-- template: 2-column-media-element
-  block: media-2
-  image_1:
-    image: "/uploads/InfoOverloadYEE.png"
-  image_2:
-    image: "/uploads/IterativeDesignYEE.png"
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -64,6 +53,17 @@ page_sections:
   headline: Spotify <strong>HEURISTIC ANALYSIS</strong>
   media:
     image: "/uploads/spotify.jpg"
+- template: 1-column-text
+  block: one-column-1
+  headline: ''
+  content: ''
+  styled: info<strong>GRAPHICS</strong>
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/InfoOverloadYEE.png"
+  image_2:
+    image: "/uploads/IterativeDesignYEE.png"
 
 ---
 foo bar
