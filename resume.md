@@ -30,6 +30,6 @@ page_sections:
     Fostered personal growth and developed servant leaders in the Taiwanese American
     community for the benefit of society<br>- Updated Instagram and Snapchat account
     throughout the week the preserve memories and educate parents
-  headline: here's my resume!
+  headline: HERE'S MY RESUME!
 
 ---
