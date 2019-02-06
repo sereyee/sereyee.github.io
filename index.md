@@ -34,7 +34,7 @@ page_sections:
     title="https://docs.google.com/document/d/19A41pFm9nit0Y2cwbuAxcwXFBKq6qB9mUyPgoGjaryU/edit?usp=sharing">https://docs.google.com/document/d/19A41pFm9nit0Y2cwbuAxcwXFBKq6qB9mUyPgoGjaryU/edit?usp=sharing</a>
   media:
     image: ''
-    alt_text: scrutinize me!
+    alt_text: ''
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
