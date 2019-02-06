@@ -12,7 +12,7 @@ page_sections:
     link_text: resume
   - link: "#"
     link_text: my thoughts
-  logo: "/uploads/2019/02/06/lines 3.jpg"
+  logo: ''
 - template: hero-banner-w-image
   block: hero-2
   headline: SERENA YEE <br><strong>living to learn!</strong>
@@ -23,7 +23,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2018/06/21/hero-2-bg.png"
+    image: "/uploads/lines 1.jpg"
     alt_text: ''
   background_image: "/uploads/2019/02/06/lines 1.jpg"
 - template: content-feature
