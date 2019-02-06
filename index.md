@@ -8,7 +8,7 @@ page_sections:
   navigation:
   - link: "#"
     link_text: home
-  - link: "/resume/"
+  - link: "/resume"
     link_text: resume
   - link: "#"
     link_text: my thoughts
