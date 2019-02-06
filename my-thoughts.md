@@ -12,6 +12,5 @@ page_sections:
     link_text: resume
   - link: "/mythoughts"
     link_text: my thoughts
-published: false
 
 ---
