@@ -59,7 +59,6 @@ page_sections:
   block: media-1
   image: "/uploads/2018/06/21/theme.png"
   caption: All Available Blocks
-published: false
 
 ---
 foo bar
