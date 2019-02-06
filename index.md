@@ -44,7 +44,7 @@ page_sections:
   headline: academic <strong>ESSAYS</strong>
   content: ''
   media:
-    image: "/uploads/2018/06/21/edit.gif"
+    image: "/uploads/2018/06/21/forestry-symbol.svg"
     alt_text: scrutinize me!
 - template: 1-column-text
   block: one-column-1
