@@ -34,7 +34,7 @@ page_sections:
     title="Goals Hierarchy and Self Regulation in IVF Patients"><strong>Goals Hierarchy
     and Self Regulation in IVF Patients</strong></a>
   media:
-    image: ''
+    image: "/uploads/2018/06/21/drone-photo.jpeg"
     alt_text: ''
 - template: simple-footer
   block: footer-1
