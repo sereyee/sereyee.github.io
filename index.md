@@ -32,7 +32,7 @@ page_sections:
   content: <a href="https://docs.google.com/document/d/19A41pFm9nit0Y2cwbuAxcwXFBKq6qB9mUyPgoGjaryU/edit?usp=sharing"
     title="https://docs.google.com/document/d/19A41pFm9nit0Y2cwbuAxcwXFBKq6qB9mUyPgoGjaryU/edit?usp=sharing">https://docs.google.com/document/d/19A41pFm9nit0Y2cwbuAxcwXFBKq6qB9mUyPgoGjaryU/edit?usp=sharing</a>
   media:
-    image: "/uploads/2018/06/21/forestry-symbol.svg"
+    image: "/uploads/2019/02/06/lines 2.png"
     alt_text: scrutinize me!
 - template: simple-footer
   block: footer-1
